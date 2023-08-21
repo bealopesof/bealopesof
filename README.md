@@ -1,8 +1,8 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://flic.kr/p/2oX4A6m" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/bealopesof/bealopesof/blob/770ad109340861e39c109d3bb409775d4e0582ff/asd.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center">I 💜 solve big challenges using technology. <br><br> From backend development using Java, python, C to frontend development using Javascript, I am <strong>I am passionate about discovering new materials</strong> and using them to create high quality solutions. Today, I'm a <strong>RPA Jr. developer</strong></p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
